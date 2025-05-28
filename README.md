@@ -7,9 +7,11 @@ This project performs an Exploratory Data Analysis (EDA) on the Telco Customer C
 ## 📁 Project Structure
 
 📂 telco-customer-churn-eda/
-├── Telco_Customer_Churn_EDA.ipynb # Full EDA in Jupyter Notebook
-├── Telco-Customer-Churn-Analysis.pdf # Project summary presentation
-├── README.md # Project overview (this file)
+
+- Telco_Customer_Churn_EDA.ipynb # Full EDA in Jupyter Notebook
+- Telco-Customer-Churn-Analysis.pdf # Project summary presentation
+- Telco-Customer-Churn-Images.zip # analysis charts
+- README.md # Project overview (this file)
 
 
 ---
