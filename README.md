@@ -1,6 +1,6 @@
 # Telco Customer Churn EDA Project
 
-This project performs an Exploratory Data Analysis (EDA) on the Telco Customer Churn dataset to uncover key factors influencing customer churn. The goal is to help telecom companies identify high-risk customers and implement strategies to improve retention.
+This project performs an Exploratory Data Analysis (EDA) on the Telco Customer Churn dataset to uncover key factors influencing customer churn. The goal is to help telecom companies identify high-risk customers and implement strategies to improve retention. 
 
 ---
 
