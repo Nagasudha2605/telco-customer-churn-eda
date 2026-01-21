@@ -62,7 +62,7 @@ To explore the Telco Customer Churn dataset and understand:
 
 3. Run all cells to reproduce the analysis.
 
-![cover](cover/customer_churn.png)
+![cover](customer_churn.png)
 
 ## 🔗 **Author & Credits**
 Author: Nagasudha S
